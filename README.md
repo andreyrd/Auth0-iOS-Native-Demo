@@ -1,6 +1,6 @@
 # Auth0-iOS-Native-Demo
 
-This is a very quick and dirty example implementation of native login using the latest OIDC compliant Auth0 endpoints.
+This is a very quick and dirty example implementation of native passwordless SMS login using the latest OIDC compliant Auth0 endpoints.
 
 It's meant to be a one time example implementation as a proof of concept, so please don't actually use it anywhere. :) There's a lot of hacky unwraps and view positioning in it.
 
