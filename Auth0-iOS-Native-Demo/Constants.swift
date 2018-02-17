@@ -9,7 +9,7 @@
 import Foundation
 
 struct Constants {
-    static let domain = "REPLACEME.tryb.com"
+    static let domain = "REPLACEME.auth0.com"
     static let clientId = "REPLACEME"
     static let audience = "REPLACEME"
     static let redirectUri = "REPLACEME"
